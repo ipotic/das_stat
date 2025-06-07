@@ -1,0 +1,7 @@
+Global Moran's I results
+------------------------
+delta_pop:
+  I = 0.1953, p = 0.0010, z = 6.44
+
+delta_dens:
+  I = 0.1301, p = 0.0010, z = 4.11

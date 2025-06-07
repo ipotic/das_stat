@@ -1,0 +1,4 @@
+Spearman's rank correlation
+----------------------------
+Correlation coefficient (rho): -0.2731
+P-value: 0.0001

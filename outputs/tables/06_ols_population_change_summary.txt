@@ -1,0 +1,29 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              delta_pop   R-squared:                       0.970
+Model:                            OLS   Adj. R-squared:                  0.969
+Method:                 Least Squares   F-statistic:                     2206.
+Date:                Sat, 07 Jun 2025   Prob (F-statistic):          8.44e-157
+Time:                        14:08:56   Log-Likelihood:                 414.04
+No. Observations:                 211   AIC:                            -820.1
+Df Residuals:                     207   BIC:                            -806.7
+Df Model:                           3                                         
+Covariance Type:            nonrobust                                         
+===============================================================================
+                  coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------
+const           0.4374      0.011     40.795      0.000       0.416       0.459
+area           -0.0050   9.86e-05    -50.417      0.000      -0.005      -0.005
+floors         -0.3996      0.008    -51.655      0.000      -0.415      -0.384
+dist_center  1.149e-05   1.49e-05      0.772      0.441   -1.78e-05    4.08e-05
+==============================================================================
+Omnibus:                      148.665   Durbin-Watson:                   2.228
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             5029.381
+Skew:                           2.133   Prob(JB):                         0.00
+Kurtosis:                      26.534   Cond. No.                     1.75e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 1.75e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
