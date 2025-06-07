@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.log
+*.bak
+
+# Virtual environment
+.env/
+.venv/
+ENV/
+env/
+venv/
+
+# Jupyter / IPython
+.ipynb_checkpoints
+
+# VS Code / PyCharm
+.vscode/
+.idea/
+
+# GIS / Spatial data
+*.shp
+*.shx
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.cpg
+*.qgs~
+*.aux.xml
+*.tif
+*.tiff
+*.img
+*.ovr
+
+# CSV / Excel / Output files
+*.csv
+*.xlsx
+*.xls
+*.ods
+
+# OS-generated
+.DS_Store
+Thumbs.db
+
+# Output folders
+/output/
+output/
