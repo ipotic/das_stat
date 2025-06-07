@@ -34,14 +34,23 @@ das_stat/
 
 ## Dependencies
 The following Python libraries are used throughout the project:
+
 pandas
+
 numpy
+
 geopandas
+
 matplotlib
+
 scipy
+
 shapely
+
 statsmodels
+
 pysal
+
 esda
 
 To install all dependencies at once:
