@@ -1,5 +1,3 @@
-# das_stat
-Dasymetric and statistics
 # Dasymetric Mapping of Population Change at the Building Level (2011–2022)
 
 This repository contains data, Python scripts, and visual outputs related to the study of building-level population change in a rural settlement in Southeastern Serbia. The project applies dasymetric mapping techniques, spatial statistics, and exploratory spatial data analysis to examine patterns of residential depopulation and intensification.
@@ -16,3 +14,6 @@ Tabular datasets and visual outputs are released under the Creative Commons Attr
 
 ## Citation
 Potić, I. (2025). *Dasymetric Mapping of Population Change at the Building Level in a Rural Settlement in Southeastern Serbia (2011–2022)* [Unpublished manuscript].
+
+# das_stat
+Dasymetric and statistics
