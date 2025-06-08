@@ -74,7 +74,7 @@ The source code in this repository is licensed under the MIT License.
 Tabular datasets and visual outputs are released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 
 ## Citation
-Potić, I. (2025). *Dasymetric Mapping of Population Change at the Building Level in a Rural Settlement in Southeastern Serbia (2011–2022)* [Unpublished manuscript].
+Author. (YYYY). *High-Resolution Mapping of Temporal Population Change at the Building Level: A Case Study of a Rural Settlement in Southeastern Serbia* [Unpublished manuscript].
 
 # das_stat
 Dasymetric and statistics
