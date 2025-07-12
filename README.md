@@ -1,4 +1,4 @@
-# High-Resolution Mapping of Temporal Population Change at the Building Level: A Case Study of a Rural Settlement in Southeastern Serbia
+# Building-Level Dasymetric Mapping of Population Change in a Depopulating Rural Settlement: A Case Study from Southeastern Serbia
 
 This repository contains data, Python scripts, and visual outputs related to the study of building-level population change in a rural settlement in Southeastern Serbia. The project applies dasymetric mapping techniques, spatial statistics, and exploratory spatial data analysis to examine patterns of residential depopulation and intensification. The analysis combines spatial data processing in QGIS with Python scripting to identify statistically significant clusters of population density change at the building level.
 
