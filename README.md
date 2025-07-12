@@ -74,7 +74,7 @@ The source code in this repository is licensed under the MIT License.
 Tabular datasets and visual outputs are released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 
 ## Citation
-Author. (YYYY). *High-Resolution Mapping of Temporal Population Change at the Building Level: A Case Study of a Rural Settlement in Southeastern Serbia* [Unpublished manuscript].
+Author. (YYYY). *Building-Level Dasymetric Mapping of Population Change in a Depopulating Rural Settlement: A Case Study from Southeastern Serbia* [Unpublished manuscript].
 
 # das_stat
 Dasymetric and statistics
